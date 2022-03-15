@@ -1,7 +1,8 @@
 # Welcome!
 👋 Hi, I’m @emmaelmberg | 
-👀 I’m interested in PHP | 
-🌱 I’m currently learning PHP
+📍 Based in Malmö | 
+🐶 I’m a dog person | 
+🤓 I’m currently learning Git & PHP
 
 <!---
 emmaelmberg/emmaelmberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
